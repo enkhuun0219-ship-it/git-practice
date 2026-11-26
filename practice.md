@@ -1,1 +1,1 @@
-Hello, Git practice
+Welcome to Open Source - main version
