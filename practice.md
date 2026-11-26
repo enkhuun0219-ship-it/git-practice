@@ -1,1 +1,1 @@
-Hello, Git practice
+Hi from Khuslen - version A
